@@ -89,7 +89,6 @@ function askQuestion(){
         
        if ( checkReply (questionAndReply[i].question,questionAndReply[i].options) == questionAndReply[i].reply){
             score++;
-       }else{
        }
    }
 
